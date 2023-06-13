@@ -1,1 +1,1 @@
-python\python.exe -m http.server --bind localhost
+python -m http.server --bind localhost  --cgi 80
